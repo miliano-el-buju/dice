@@ -1,1 +1,0 @@
-alert("hey this is from the main.js file")
